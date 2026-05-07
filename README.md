@@ -185,4 +185,4 @@ const prioritised = cards.sort((a, b) =>
 ## 👨‍💻 Developer
 
 **Uthman Mustapha** — React Native Developer  
-[github.com/uthmanmustapha](https://github.com/uthmanmustapha)
+[github.com/UthmanM1](https://github.com/UthmanM1)
